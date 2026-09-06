@@ -22,4 +22,4 @@ We were able to fully deploy the website within the time limit. We also learned 
 -OpenAI API
 
 ## What's next for Atlanticus
-Because Atlanticus requires an active user base, the next step for Atlanticus would be to advertise it across campus and on online platforms. Additionally, a final version of this web app would require more polish and refined features.
+Because Atlanticus requires an active user base, the next step for Atlanticus would be to advertise it across campus and on online platforms. Additionally, a final version of this web app would require more polish and refined features to be added.
