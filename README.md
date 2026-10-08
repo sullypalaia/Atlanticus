@@ -1,3 +1,5 @@
+This project was made for the 2026 [Codebox Hacks hackathon](https://codebox-hacks.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio&_gl=1*1w32m82*_gcl_au*MTI3NTU4MTQ5MC4xNzkwOTE3MzM4*_ga*MzAyMzY4Mjg4LjE3OTA5MTczMzk.*_ga_0YHJK3Y10M*czE3OTE0OTA2MDckbzIkZzEkdDE3OTE0OTA2NzUkajU1JGwwJGgw).  
+
 ## Inspiration
 In the realm of software development, business, research, etc..., it can be difficult to begin or continue a project with the limitations of your own skill set. Atlanticus was built for the purpose of turning small ideas into a real project with the contributions of others. This project is part of the "Hidden Cal Poly" category because it allows students to connect with other students and faculty to create and work on projects that would not be possible with only a single student. More specifically, this project encourages the creativity of new first year or transfer students at Cal Poly who may not know any current students or faculty at Cal Poly.
 
